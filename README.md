@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Cláudia Paniago!</h2>
 
+<p>I like programing and my goal is to create awesome websites that solve real world problems while looking beautiful.</p>
+
 
 ###
 
