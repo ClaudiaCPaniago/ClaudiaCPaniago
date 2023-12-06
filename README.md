@@ -37,9 +37,7 @@
   <a href="https://www.linkedin.com/in/cl%C3%A1udia-paniago-35326294/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     
-  <a href="https://github.com/ClaudiaCPaniago">
- <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo"/>
-</div>
+  </div>
 
 ###
 
