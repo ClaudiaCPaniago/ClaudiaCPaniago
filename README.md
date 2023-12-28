@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Cláudia Paniago!</h2>
+<h2 align="left">Olá 👋! Meu nome é Cláudia Paniago!</h2>
 
-<p>I like programing and my goal is to create awesome websites that solve real world problems while looking beautiful.</p>
+<p>Estou em transição de carreira da área do Direito para a área da Programação, com foco em Front-end.
+
+Estou estudando para atuar no desenvolvimento front-end de aplicações web, e-commerces, blogs, landing pages, e páginas institucionais. Eu gosto de programar e meu objetivo é criar sites incríveis que resolvam problemas do mundo real e ao mesmo tempo tenham uma aparência bonita.</p>
 
 
 ###
