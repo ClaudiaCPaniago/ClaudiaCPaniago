@@ -11,35 +11,23 @@ Estou estudando para atuar no desenvolvimento front-end de aplicações web, e-c
 
 ###
 
-<h3 align="left"> Language and tools</h3>
+<h3 align="left"> 💻 Language and tools</h3>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 
 ###
 
-<h3 align="left"> Social media</h3
+<h3 align="left"> 🌐 Social media</h3
                                 
-###
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/claudiapaniago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udia-paniago-35326294) 
+
+<br>
+
+![ClaudiaCPaniago's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaudiaCPaniago&theme=radical&hide_border=true)
 
 
-<div align="left">
-  <a class="apresentacao__link__links" href="https://www.instagram.com/claudiapaniago/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-
-  <a href="https://www.linkedin.com/in/cl%C3%A1udia-paniago-35326294/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    
-  </div>
-
-###
+![ClaudiaCPaniago's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaCPaniago&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
