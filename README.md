@@ -1,6 +1,7 @@
 <h2 align="left">Olá 👋! Meu nome é Cláudia Paniago!</h2>
 
-<p>Estou em transição de carreira da área do Direito para a área da Programação, com foco em Front-end. Eu gosto de programar e meu objetivo é criar sites incríveis que resolvam problemas do mundo real e ao mesmo tempo tenham uma aparência bonita.</p>
+<p>Estou em transição de carreira da área do Direito para a área da Programação, com foco em Front-end. 
+    Eu gosto de programar e meu objetivo é criar sites incríveis que resolvam problemas do mundo real e ao mesmo tempo tenham uma aparência bonita.</p>
 
 
 ###
