@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/fb5104d9-2487-4273-b537-c4f3d96fff6c" width="8000px">
+</div>
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=973FCD&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Cl%C3%A1udia+Paniago!)](https://git.io/typing-svg)
 
