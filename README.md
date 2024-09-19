@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=973FCD&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Cl%C3%A1udia+Paniago!)](https://git.io/typing-svg)
 
 
@@ -30,6 +31,8 @@
 
 ![ClaudiaCPaniago's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaudiaCPaniago&theme=radical&hide_border=true)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+<img align="right" src="https://sdl-stickershop.line.naver.jp/stickershop/v1/sticker/214347782/IOS/sticker_animation.png">
 
 
