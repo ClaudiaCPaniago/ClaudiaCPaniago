@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/fb5104d9-2487-4273-b537-c4f3d96fff6c" width="8000px">
-</div>
-
+![Image](https://github.com/user-attachments/assets/6da23d18-f7c4-4825-bd09-8a0bb923eec3)
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=973FCD&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Cl%C3%A1udia+Paniago!)](https://git.io/typing-svg)
@@ -9,9 +6,11 @@
 
 <h2 align="left">About me</h2>
 
-* Sou estudante de Análise e Desenvolvimento de Sistemas.
-*  Atualmente estou aprendendo React.
-* Estou em processo de transição de carreira, migrando da área do Direito para a programação, impulsionada pela minha paixão por tecnologia e desenvolvimento web. Como desenvolvedora front-end, sou apaixonada por transformar ideias em soluções digitais intuitivas e atraentes. Sou uma pessoa dedicada, criativa e motivada, sempre em busca de desafios estimulantes para aplicar minha paixão pela programação e contribuir com projetos inovadores.</p>
+
+* Estou em transição de carreira, migrando da área do Direito para a programação, impulsionada pela minha paixão por tecnologia e desenvolvimento de software. Iniciei meus estudos com foco em front-end, mas meu objetivo é expandir meus conhecimentos para outras áreas da programação.</p>
+* Sou estudante de Análise e Desenvolvimento de Sistemas na Uniube.
+* Atualmente, estou iniciando meus estudos em back-end com Java, por meio do curso da One - Oracle Next Education.
+
 
 
 <br>
